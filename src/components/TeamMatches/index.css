@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.team-pic {
+  height: 300px;
+  width: 100%;
+}
+
+.blog-info {
+  background-color: black;
+  height: 100%;
+}
+
+.cont-2 {
+  margin: 5px;
+  /* height: 100%; */
+}

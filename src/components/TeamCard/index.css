@@ -1,0 +1,25 @@
+/* Write your CSS here */
+
+.item-container {
+  border-radius: 20px;
+  border-color: white;
+  border-style: solid;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 280px;
+  align-items: center;
+}
+
+.team-text {
+  font-family: 'Roboto';
+  font-size: medium;
+  color: white;
+}
+
+.team-img {
+  height: 50px;
+  width: 40px;
+  margin: 10px;
+}
