@@ -47,10 +47,6 @@ class TeamMatches extends Component {
             <LatestMatch blogData={blogData} />
           </div>
         )}
-        <ul>
-          <li>khd</li>
-          <li>khd</li>
-        </ul>
       </div>
     )
   }

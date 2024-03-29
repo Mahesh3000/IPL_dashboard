@@ -59,10 +59,6 @@ class Home extends Component {
             </div>
           </div>
         </div>
-        <ul>
-          <li>khd</li>
-          <li>khd</li>
-        </ul>
       </div>
       //   <div className="blog-info">
       //     <h2 className="blog-details-title">{title}</h2>
